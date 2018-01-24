@@ -3,6 +3,6 @@ Home for things I created for <b><a href="www.ritu18.com">Ritu'18</a></b>, Techn
 
 <ul>
   <li> <b>Ritu_LineDrawing</b>
-    <p> A line drawing animation of Ritu Logo using <a href="https://www.animejs.com">anime.js</a>
+    <p> A line drawing animation of Ritu Logo using <a href="www.animejs.com">anime.js</a>
 </ul>
   
