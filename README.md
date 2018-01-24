@@ -1,5 +1,5 @@
 # Ritu-
-Home for things I created for <b><a href="www.ritu18.com">Ritu'18</a></b>, Techno-Cultural Fest of Rajiv Gandhi Institute of Technology, Kottayam.
+Home for things I created for <b><a href="http://www.ritu18.com">Ritu'18</a></b>, Techno-Cultural Fest of Rajiv Gandhi Institute of Technology, Kottayam.
 
 <ul>
   <li> <b>Ritu_LineDrawing</b>
